@@ -6,7 +6,7 @@ package com.example.samuel.ingepro;
 
 public class Config {
 
-    public static final String EMAIL ="samueldavidsanchez.25@gmail.com";
-    public static final String PASSWORD ="251119883154";
+    public static final String EMAIL ="xxxxxxxxxx.@gmail.com";
+    public static final String PASSWORD ="xxxxxxxxxxxxx";
 
 }
