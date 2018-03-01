@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "819224673811",
+    "firebase_url": "https://ingepro-db4aa.firebaseio.com",
+    "project_id": "ingepro-db4aa",
+    "storage_bucket": "ingepro-db4aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819224673811:android:361dcb031767e440",
+        "android_client_info": {
+          "package_name": "com.example.samuel.ingepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819224673811-bigkcr67pvvj429qlefm9shnbrk8kvfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samuel.ingepro",
+            "certificate_hash": "f10186928571bac8c7103438ced537b49bbb3af5"
+          }
+        },
+        {
+          "client_id": "819224673811-qo64qnphvas1hrng5s0uc2tjrvt3urh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWChgqiMVNlGwducCWCeepQFFm8MX1xuc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819224673811-qo64qnphvas1hrng5s0uc2tjrvt3urh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
